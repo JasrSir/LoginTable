@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">LoginTable</string>
+    <string name="edUser">Nombre o Email</string>
+    <string name="edPassword">Password</string>
+    <string name="chbRemember">Remember</string>
+    <string name="txvContrasenia">Contraseña</string>
+    <string name="txvUser">Usuario</string>
+    <string name="btnAceptar">OK</string>
+    <string name="btnCancel">Cancelar</string>
+
+</resources>
